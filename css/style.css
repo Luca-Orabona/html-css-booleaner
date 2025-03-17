@@ -8,12 +8,16 @@
     color: rgb(128, 128, 128);
 }
 
+.text-white {
+    color: white;
+}
+
 .text-azzurro {
     color: rgb(24 165 255);
 }
 
 .bg-lightblue {
-   background-color:  rgb(169 232 255);
+    background-color:  rgb(169 232 255);
 }
 
 .bg-blue {
@@ -77,3 +81,29 @@ table {
 /* fine tabella */
 
 /* fine contenuto principale */
+
+/* footer */
+.useful-info {
+    height: 145px;
+    width: 13%;
+    background-image: url(../img/monitor.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    font-weight: 600;
+    box-sizing: border-box;
+    padding: 10px;
+    margin-bottom: 7px;
+
+}
+
+.useful-info2 {
+    height: 145px;
+    width: 13%;
+    background-image: url(../img/graph.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    box-sizing: border-box;
+    padding: 10px;
+    font-weight: 600;
+}
+/* fine footer */
