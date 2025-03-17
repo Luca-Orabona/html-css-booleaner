@@ -1,6 +1,6 @@
 
 .conteiner {
-    width: 70%;
+    width: 35%;
     margin: 0 auto;
 }
 
@@ -100,8 +100,8 @@ table {
 
 /* footer */
 .useful-info {
-    height: 145px;
-    width: 13%;
+    height: 120px;
+    width: 180px;
     background-image: url(../img/monitor.jpg);
     background-size: contain;
     background-repeat: no-repeat;
@@ -113,8 +113,8 @@ table {
 }
 
 .useful-info2 {
-    height: 145px;
-    width: 13%;
+    height: 120px;
+    width: 180px;
     background-image: url(../img/graph.jpg);
     background-size: contain;
     background-repeat: no-repeat;
