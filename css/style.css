@@ -1,3 +1,26 @@
+
+/* common */
+.bg-yellow {
+    background-color: rgb(255, 255, 0);
+}
+
+.text-gray {
+    color: rgb(128, 128, 128);
+}
+
+.text-azzurro {
+    color: rgb(24 165 255);
+}
+
+.bg-lightblue {
+   background-color:  rgb(169 232 255);
+}
+
+.bg-blue {
+    background-color: rgb(67 164 255);  
+}
+
+/* intestazione */
 .bg-header {
     height: 100px;
     background-color: rgb(71, 124, 238);
@@ -10,3 +33,47 @@
     height: 47%;
     margin: 41px 0 0 10px;
 }
+/* fine intestazione */
+
+
+/* contenuto principale */
+
+/* figure */
+.img-tim {
+    margin-left: 0;
+}
+
+.text-weight {
+    font-weight: 600;
+}
+
+figcaption {
+    font-size: small;
+}
+/* fine figure */
+
+/* lista */
+.list {
+    padding-left: 0;
+    list-style-position: inside;
+}
+
+/* tabella */
+table {
+    border-collapse: collapse;
+}
+.head-table {
+    color: rgb(255, 255, 255);
+    text-align: left;
+}
+
+.w-25 {
+    width: 25%;
+}
+
+.w-50 {
+    width: 50%;
+}
+/* fine tabella */
+
+/* fine contenuto principale */
