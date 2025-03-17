@@ -1,0 +1,12 @@
+.bg-header {
+    height: 100px;
+    background-color: rgb(71, 124, 238);
+    background-image: url(../img/pattern.png);
+    background-size: 393px;
+    background-position: 71px 0px;
+}
+
+.logo {
+    height: 47%;
+    margin: 41px 0 0 10px;
+}
